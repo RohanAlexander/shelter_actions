@@ -8,7 +8,7 @@ Downloads the City of Toronto's daily shelter overnight occupancy data once a da
 2. Go to Settings > Actions > General, and under "Workflow permissions" select "Read and write permissions". Save.
 3. Go to the Actions tab, click "Daily shelter occupancy download", then "Run workflow". A file should appear in `data/` within a couple of minutes.
 
-After that it runs on its own every day at 7am Toronto time.
+After that it runs on its own every day at 7am Toronto time.ddd
 
 ## Files
 
